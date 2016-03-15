@@ -1,0 +1,32 @@
+{
+  "name": "react-browserify",
+  "version": "1.0.0",
+  "description": "react seed with browserify",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingkaiZhao/seeds.git"
+  },
+  "keywords": [
+    "seed"
+  ],
+  "author": "JingkaiZhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JingkaiZhao/seeds/issues"
+  },
+  "homepage": "https://github.com/JingkaiZhao/seeds#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "load-grunt-tasks": "^3.4.1",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
