@@ -20,12 +20,13 @@
   },
   "homepage": "https://github.com/JingkaiZhao/seeds#readme",
   "devDependencies": {
+    "babel": "^6.5.2",
     "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
     "grunt": "^0.4.5",
     "grunt-babel": "^6.0.0",
     "grunt-webpack": "^1.0.11",
     "load-grunt-tasks": "^3.4.1",
-    "css-loader": "^0.23.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
