@@ -7,4 +7,4 @@ const rootEl = document.getElementById('root')
 ReactDOM.render(
   <App/>,
   rootEl
-)
+);
