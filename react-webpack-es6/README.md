@@ -1,6 +1,6 @@
 # React, build by webpack, using ES6
 
-# Start
+## Start
 ```
 npm install
 npm start

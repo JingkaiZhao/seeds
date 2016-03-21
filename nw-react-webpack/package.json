@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JingkaiZhao/nw-app.git"
+    "url": "git+https://github.com/JingkaiZhao/seeds.git"
   },
   "keywords": [
     "nw"
@@ -37,7 +37,7 @@
   "author": "JingkaiZhao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JingkaiZhao/nw-app/issues"
+    "url": "https://github.com/JingkaiZhao/seeds/issues"
   },
-  "homepage": "https://github.com/JingkaiZhao/nw-app#readme"
+  "homepage": "https://github.com/JingkaiZhao/seeds#readme"
 }

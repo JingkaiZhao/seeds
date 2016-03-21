@@ -1,6 +1,6 @@
 # React, build by browserify 
 
-# Start
+## Start
 ```
 npm install
 grunt
